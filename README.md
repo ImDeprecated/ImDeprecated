@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**ImDeprecated/ImDeprecated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+▀█▀ █▀▄▀█ ▒█▀▀▄ █▀▀ █▀▀█ █▀▀█ █▀▀ █▀▀ █▀▀█ ▀▀█▀▀ █▀▀ █▀▀▄ 
+▒█░ █░▀░█ ▒█░▒█ █▀▀ █░░█ █▄▄▀ █▀▀ █░░ █▄▄█ ░░█░░ █▀▀ █░░█ 
+▄█▄ ▀░░░▀ ▒█▄▄▀ ▀▀▀ █▀▀▀ ▀░▀▀ ▀▀▀ ▀▀▀ ▀░░▀ ░░▀░░ ▀▀▀ ▀▀▀░
 
-Here are some ideas to get you started:
+Hello, im Deprecated. Im 16 years old and work with @iDevMC with
+his project @Starplum. I mainly do Java but sometimes work on HTML,
+JavaScript and C# projects. I like coding and being lazy, basically
+like @iDevMC, but kinda worst xD, anyways, I'm mainly here because
+of him so yeah !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I only have a github account so if you have any questions,
+please contact @iDevMC and ask him to tell me your questions.
+
+TLDR; @iDevMC has access to this account :D
